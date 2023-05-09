@@ -31,6 +31,11 @@
     </p>
 </p>
 
+## 修改说明
+
+此版本基于官方v2.2.0 tag开发 https://github.com/xuxueli/xxl-job/tree/v2.2.0
+
+数据源由Mysql改为Oracle，解决了Oracle数据无法使用xxl-job的问题
 
 ## Introduction
 XXL-JOB is a distributed task scheduling framework. 
@@ -38,12 +43,6 @@ It's core design goal is to develop quickly and learn simple, lightweight, and e
 Now, it's already open source, and many companies use it in production environments, real "out-of-the-box".
 
 XXL-JOB是一个分布式任务调度平台，其核心设计目标是开发迅速、学习简单、轻量级、易扩展。现已开放源代码并接入多家公司线上产品线，开箱即用。
-
-## 修改说明
-
-此版本基于官方v2.2.0 tag开发 https://github.com/xuxueli/xxl-job/tree/v2.2.0
-
-数据源由Mysql改为Oracle，解决了Oracle数据无法使用xxl-job的问题
 
 ## Documentation
 - [中文文档](https://www.xuxueli.com/xxl-job/)
